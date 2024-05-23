@@ -1,0 +1,4 @@
+Barcelona;Fútbol;1940
+Independiente del Valle;Fútbol;1990
+Mushuc Runa;Fútbol;1995
+Universidad Católica;Fútbol;1993
